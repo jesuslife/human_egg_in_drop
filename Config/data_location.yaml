@@ -1,0 +1,6 @@
+path: C:\ConceivableProjects\egg_in_drop_h\v3
+train: images/train 
+val: images/val 
+
+names:
+  0: egg
